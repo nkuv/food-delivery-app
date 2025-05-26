@@ -1,0 +1,9 @@
+name: food_delivery_app_workspace
+description: Monorepo for the multi-vendor food delivery platform.
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <5.0.0"
+
+dev_dependencies:
+  melos: ^6.3.3

@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/food-delivery-app.iml" filepath="$PROJECT_DIR$/.idea/food-delivery-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/melos_admin.iml" filepath="$PROJECT_DIR$/admin/melos_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/melos_common.iml" filepath="$PROJECT_DIR$/common/melos_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rider/melos_rider.iml" filepath="$PROJECT_DIR$/rider/melos_rider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/melos_user.iml" filepath="$PROJECT_DIR$/user/melos_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor/melos_vendor.iml" filepath="$PROJECT_DIR$/vendor/melos_vendor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_food-delivery-app.iml" filepath="$PROJECT_DIR$/melos_food-delivery-app.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,18 @@
+name: food-delivery-app
+packages:
+  - common
+  - user
+  - vendor
+  - rider
+  - admin
+
+scripts:
+  analyze:
+    run: dart analyze
+    description: Analyze all Dart code in the workspace
+  format:
+    run: dart format .
+    description: Format all Dart files in the workspace
+  test:
+    run: melos exec -- flutter test
+    description: Run Flutter tests in all packages
